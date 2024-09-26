@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header" alt="header" />
-</div>
 
 <div style="text-align: right;">
   <h2>Hi there 👋</h2>
