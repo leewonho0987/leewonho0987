@@ -7,7 +7,7 @@
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<div aligh = "center">
+<div aligh = "right">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=&pause=1000&color=8938F7&background=C4A8FF00&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hello+World!;%EC%95%88%EB%85%95!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81" alt="Typing SVG" />  </a>
 </div>
 
