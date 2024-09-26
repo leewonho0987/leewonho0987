@@ -1,8 +1,8 @@
-<div style="text-align: right;"">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header&text=Hello%20World!&fontSize=40&fontColor=ffffff" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header" alt="header" />
 </div>
 
-<div align="center">
+<div style="text-align: right;">
   <h2>Hi there 👋</h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
