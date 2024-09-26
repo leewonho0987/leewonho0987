@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=header" alt="header" />
-</div>
 
 <div align="center">
   <h2>Hi there 👋</h2>
@@ -20,7 +17,5 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=BDBDC8&height=150&section=footer" alt="footer" />
-</div>
+
 
